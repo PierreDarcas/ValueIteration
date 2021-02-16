@@ -1,2 +1,7 @@
-package tp1;public class Recompense {
+package tp1;
+
+public class Recompense {
+
+    public float valeur;
+
 }
